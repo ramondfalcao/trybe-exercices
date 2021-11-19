@@ -15,4 +15,12 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Bloco 2: Git, GitHub e Internet
 - [x] 2.1 - Git & GitHub  - O que é e para que serve
 - [x] 2.2 - Git & GitHub - Entendendo os comandos
-- [x] 2.3 - Internet - Entendendo como ela funciona
+- [x] 2.3 - Internet - Entendendo como ela funciona 
+
+##### Bloco 3: Introdução à HTML e CSS
+- [x] 3.1 - Introdução - HTML e CSS
+- [] 3.1 - HTML e CSS - Estruturas de página  
+- [] 3.2 - HTML e CSS - Primeiros passos em CSS
+- [] 3.3 - HTML e CSS - Seletores e posicionamento 
+- [] 3.4 - HTML  - HTML Semântico
+- [] 3.5 - HTML e CSS - Projeto - Lessons Learned
