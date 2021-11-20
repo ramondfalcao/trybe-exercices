@@ -19,7 +19,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Bloco 3: Introdução à HTML e CSS
 - [x] 3.1 - Introdução - HTML e CSS
-- [] 3.1 - HTML e CSS - Estruturas de página  
+- [x] 3.1 - HTML e CSS - Estruturas de página  
 - [] 3.2 - HTML e CSS - Primeiros passos em CSS
 - [] 3.3 - HTML e CSS - Seletores e posicionamento 
 - [] 3.4 - HTML  - HTML Semântico
