@@ -1,33 +1,19 @@
-.super-mario {
-    width: 200px;
-    position: absolute;
-  }
-  
-  .goomba {
-    width: 100px;
-    position: absolute;
-    top: 380px;
-    left: 50px;
-  }
-  
-  .baloon {
-  position: absolute;
-  left: 300px;
-  bottom: 380px;
-  }
-  
-  .speach {
-    position: absolute;
-    font-size: 25px;
-    left: 320px;
-    bottom: 450px;
-    z-index: 4;
-  }
-  
-  .bowser {
-    width: 200px;
-    position: absolute;
-    z-index: 5;
-    left: 600px;
-    top: 200px;
-  }
+.text{
+    text-align: center;
+}
+
+.list{
+    list-style: none;
+    text-align: center;
+}
+
+.box-list{
+    background-color: aquamarine;
+}
+
+ol:hover{
+    background-color: rgb(201, 201, 67);
+}
+ol:active{
+    font-style: italic;
+}
