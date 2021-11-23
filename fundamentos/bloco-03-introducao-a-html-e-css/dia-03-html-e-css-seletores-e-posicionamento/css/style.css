@@ -1,19 +1,21 @@
-.text{
-    text-align: center;
+
+div:hover{
+    border: 2px solid black;
 }
 
-.list{
-    list-style: none;
-    text-align: center;
+div:nth-child(3){
+    background-color: red;
 }
-
-.box-list{
-    background-color: aquamarine;
+div:nth-child(4){
+    background-color: green;
 }
-
-ol:hover{
-    background-color: rgb(201, 201, 67);
+div:nth-child(5){
+    background-color: yellow;
 }
-ol:active{
-    font-style: italic;
+div:nth-child(6){
+    background-color: rgb(34, 31, 31);
+    color: white;
+}
+div:nth-child(7){
+    background-color: rgb(255, 162, 247);
 }
