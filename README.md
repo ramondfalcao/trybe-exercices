@@ -21,6 +21,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3.1 - Introdução - HTML e CSS
 - [x] 3.1 - HTML e CSS - Estruturas de página  
 - [x] 3.2 - HTML e CSS - Primeiros passos em CSS
-- [] 3.3 - HTML e CSS - Seletores e posicionamento 
-- [] 3.4 - HTML  - HTML Semântico
+- [x] 3.3 - HTML e CSS - Seletores e posicionamento 
+- [x] 3.4 - HTML  - HTML Semântico
 - [] 3.5 - HTML e CSS - Projeto - Lessons Learned
