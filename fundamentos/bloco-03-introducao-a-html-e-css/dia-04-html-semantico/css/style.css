@@ -29,13 +29,12 @@ nav{
 
 }
 a{
-    text-decoration: none;
+    /* text-decoration: none; */
     color: honeydew;
 }
 ul li{
     display: inline-block;
     margin: 20px 20px;
-    list-style: none;
 }
 
 main{
