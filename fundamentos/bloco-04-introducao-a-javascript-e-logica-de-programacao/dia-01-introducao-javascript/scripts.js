@@ -7,3 +7,8 @@ if (nota >= 80){
 } else if (nota < 60){
     console.log("Você foi reprovado!")
 }
+
+const conditionOne = true;
+const conditionTwo = false;
+
+console.log(conditionOne && conditionTwo);
