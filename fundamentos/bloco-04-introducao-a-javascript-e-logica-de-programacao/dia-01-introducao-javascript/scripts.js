@@ -12,3 +12,8 @@ const conditionOne = true;
 const conditionTwo = false;
 
 console.log(conditionOne && conditionTwo);
+
+const conditionOne = true;
+const conditionTwo = false;
+
+console.log(conditionOne && conditionTwo);
