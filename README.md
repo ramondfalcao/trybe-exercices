@@ -23,4 +23,12 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3.2 - HTML e CSS - Primeiros passos em CSS
 - [x] 3.3 - HTML e CSS - Seletores e posicionamento 
 - [x] 3.4 - HTML  - HTML Semântico
-- [] 3.5 - HTML e CSS - Projeto - Lessons Learned
+- [x] 3.5 - HTML e CSS - <strong> Projeto - Lessons Learned</strong>
+
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+- [x] 4.1 - Introdução - JavaScript
+- [x] 4.1 - JavaScript - Primeiros passos  
+- [] 4.2 - JavaScript - PSimeiros passos em CSS
+- [] 4.3 - JavaScript - SSletores e posicionamento 
+- [] 4.4 - JavaScript - SemSntico
+- [] 4.5 - JavaScript - <strong> Projeto - Playground Functions</strong>
