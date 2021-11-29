@@ -1,19 +1,43 @@
-const nota = 90
+// // Maior de Três  
+// const a = 30 
 
-if (nota >= 80){
-    console.log("Parabéns, você foi aprovado!")
-} else if (nota < 80 || nota >= 60) {
-    console.log("Você está na nossa lista de espera")
-} else if (nota < 60){
-    console.log("Você foi reprovado!")
-}
+// const b = 20 
 
-const conditionOne = true;
-const conditionTwo = false;
+// const c = 10
 
-console.log(conditionOne && conditionTwo);
+// if (a > b && a > c){
+//     console.log(a)
+// } else if (b > a && b > c){
+//     console.log(b)
+// } else{
+//     console.log(c)
+// }
 
-const conditionOne = true;
-const conditionTwo = false;
+// Positivo e Negativo 
 
-console.log(conditionOne && conditionTwo);
+// const a = 0
+
+
+// if (a > 0){
+//     console.log("Positive")
+// } else if (a < 0){
+//     console.log("Negative")
+// } else {
+//     console.log("Zero")
+// }
+
+
+// Angulos Triangulo
+// const anguloA = -7
+
+// const anguloB = 60
+
+// const anguloC = 60
+
+// if(anguloA == 60 && anguloB == 60 && anguloC == 60){
+//     console.log(true)
+// } else if( anguloA < 0 || anguloB < 0 || anguloC < 0) {
+//     console.log("Inválido")
+// } else {
+//     console.log(false)
+// }  
