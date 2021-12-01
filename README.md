@@ -30,5 +30,5 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4.1 - JavaScript - Primeiros passos  
 - [x] 4.2 - JavaScript - Array e loop For
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos 
-- [] 4.4 - JavaScript - Objetos e funções
+- [x] 4.4 - JavaScript - Objetos e funções
 - [] 4.5 - JavaScript - <strong> Projeto - Playground Functions</strong>
