@@ -32,3 +32,15 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos 
 - [x] 4.4 - JavaScript - Objetos e funções
 - [x] 4.5 - JavaScript - <strong> Projeto - Playground Functions</strong>
+
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+- [x] 5.1 - JavaScript - DOM e seletores
+- [] 5.2 - JavaScript - Trabalhando com elementos  
+- [] 5.3 - JavaScript - Eventos
+- [] 5.4 - JavaScript - Web Storage 
+- [] 5.5 - Fundamentos - JavaScript - Projetos
+- [] 5.5 - <strong>Projeto - Arte com Pixels</strong>
+- [] 5.6 - <strong>Projeto - Lista de tarefas</strong>
+- [] 5.7 - <strong>(Bônus) Projeto - Meme Generator</strong>
+- [] 5.7 - <strong>(Bônus) Projeto - Adivinhe a Cor</strong>
+- [] 5.7 - <strong>(Bônus) Projeto - Carta Misteriosa</strong>
