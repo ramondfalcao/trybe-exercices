@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(253, 251, 251);
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
+
+header{
+    background-color: #036b52;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    text-align: center;
+    z-index: 5;
+    color: #2fc18c;
+    /* border-bottom: 7px solid #2fc18c;
+    background-color: #036b52; */
+}   
+.logo-trybe{
+    width: 40px;
+    position: absolute;
+    right: 440px;
+    top: -5px;
+}
+
+.nav li{
+    display: inline;
+
+}
+a{
+    text-decoration: none;
+    color: #2fc18c;
+}
+
+main{
+    text-align: center;
+}
+
+h1{
+    padding: 10px;
+    margin-top: 5px;
+}
+
+
+section{
+    text-align: center;
+    margin-top: 100px;
+    display:inline-block;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+h2{
+    margin-top: 20px;
+}
+
+ol, .lists{
+    margin-top: 20px
+}
+ol li,.lists li{
+    padding: 2px;
+}
+
+.lists{
+    display: inline-block;
+    margin: 20px;
+}
+
+article{
+    text-align: center;
+    border-radius: 5%;
+    background-color: #036b52;
+    width: 500px;
+    /* height: 250px; */
+    margin-bottom: 20px;
+    border: 2px solid black;
+    color: whitesmoke;
+    padding: 5px;
+    transition: 1s;
+}
+article:hover{
+    box-shadow: 10px 10px 8px #888888;
+    
+}
+table{
+    top: 100px;
+    position: absolute;
+    width: 300px;
+}
+/* tr, td{
+    padding-right: 20px;
+}     */
+
+h3{
+    padding-top: 10px;
+}
+
+.aprendizado{
+   padding: 20px;
+}
+
+/* aside passagens */
+
+.aside{
+    background-color: #036b52;
+    position: absolute;
+    width: 220px;
+    height: 250px;
+    top: 865px;
+    right: 150px;
+    border: 2px solid black;
+    border-radius: 2%;
+    transition: 1s;
+    padding: 5px;
+    color: whitesmoke;
+}
+
+.aside:hover{
+    box-shadow: 10px 10px 8px #888888;
+}
+.icon-computer{
+    width: 110px;
+}
+h5{
+    font-size: 19px;
+}
+
+
+/* Footer */
+footer{
+    background-color: #036b52;
+    text-align: center;
+    display: block;
+}
+.dev{
+    text-align: left;
+    margin-left: 30px ;
+}
+
+.icons{
+    width: 5%;
+    margin: 15px;
+}
