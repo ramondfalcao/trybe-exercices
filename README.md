@@ -35,7 +35,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [x] 5.1 - JavaScript - DOM e seletores
-- [] 5.2 - JavaScript - Trabalhando com elementos  
+- [x] 5.2 - JavaScript - Trabalhando com elementos  
 - [] 5.3 - JavaScript - Eventos
 - [] 5.4 - JavaScript - Web Storage 
 - [] 5.5 - Fundamentos - JavaScript - Projetos
