@@ -38,9 +38,19 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5.2 - JavaScript - Trabalhando com elementos  
 - [x] 5.3 - JavaScript - Eventos
 - [x] 5.4 - JavaScript - Web Storage 
-- [] 5.5 - Fundamentos - JavaScript - Projetos
-- [] 5.5 - <strong>Projeto - Arte com Pixels</strong>
-- [] 5.6 - <strong>Projeto - Lista de tarefas</strong>
-- [] 5.7 - <strong>(Bônus) Projeto - Meme Generator</strong>
-- [] 5.7 - <strong>(Bônus) Projeto - Adivinhe a Cor</strong>
-- [] 5.7 - <strong>(Bônus) Projeto - Carta Misteriosa</strong>
+- [x] 5.5 - Fundamentos - JavaScript - Projetos
+- [x] 5.5 - <strong>Projeto - Arte com Pixels</strong>
+- [x] 5.6 - <strong>Projeto - Lista de tarefas</strong>
+- [x] 5.7 - <strong>(Bônus) Projeto - Meme Generator</strong>
+- [x] 5.7 - <strong>(Bônus) Projeto - Adivinhe a Cor</strong>
+- [x] 5.7 - <strong>(Bônus) Projeto - Carta Misteriosa</strong>
+
+##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+- [x] 6.1 - HTML e CSS - Forms
+- [x] 6.2 - Bibliotecas JavaScript e Frameworks CSS   
+- [x] 6.3 - Introdução - CSS Flexbox
+- [x] 6.3 - CSS Flexbox - Parte 1 
+- [x] 6.4 - CSS Flexbox - Parte 2
+- [x] 6.5 - CSS Responsivo - Mobile First
+- [] 6.6 - <strong>Projeto - Trybewarts</strong>
+
