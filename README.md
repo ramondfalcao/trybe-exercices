@@ -58,5 +58,5 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Fluxo de exceção e Objetos
 - [x] 7.3 - Primeiros passos em Jest
-- [] 7.4 - Projeto - JavaScript Testes Unitários
+- [x] 7.4 - Projeto - JavaScript Testes Unitários
 
