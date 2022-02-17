@@ -72,6 +72,14 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 9.1 - JavaScript Assíncrono e Callbacks
 - [x] 9.2 - JavaScript Assíncrono - Fetch API e async/await
 - [x] 9.3 - Jest - Testes Assíncronos
-- [] 9.4 - <strong>Projeto - Carrinho de Compras</strong>
+- [x] 9.4 - <strong>Projeto - Carrinho de Compras</strong>
 
 
+## Desenvolvimento Front-end :heavy_check_mark:
+
+##### Bloco 10: Introdução à React
+- [x] 1.1 - Introdução - Front-end
+- [x] 1.1 - Introdução - React
+- [x] 1.1 - 'Hello, world!' no React!
+- [] 1.2 - Componentes React
+- [] 1.3 - <strong>Projeto - Sistema Solar</strong>
