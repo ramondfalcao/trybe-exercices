@@ -78,8 +78,8 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Bloco 10: Introdução à React
-- [x] 1.1 - Introdução - Front-end
-- [x] 1.1 - Introdução - React
-- [x] 1.1 - 'Hello, world!' no React!
-- [] 1.2 - Componentes React
-- [] 1.3 - <strong>Projeto - Sistema Solar</strong>
+- [x] 10.1 - Introdução - Front-end
+- [x] 10.1 - Introdução - React
+- [x] 10.1 - 'Hello, world!' no React!
+- [x] 10.2 - Componentes React
+- [] 10.3 - <strong>Projeto - Sistema Solar</strong>
