@@ -82,4 +82,9 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 10.1 - Introdução - React
 - [x] 10.1 - 'Hello, world!' no React!
 - [x] 10.2 - Componentes React
-- [] 10.3 - <strong>Projeto - Sistema Solar</strong>
+- [x] 10.3 - <strong>Projeto - Sistema Solar</strong>
+
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+- [x] 11.1 - Introdução - Front-end
+- [] 11.2 - Introdução - React
+- [] 11.3 - <strong>Projeto - Tryunfo</strong>
