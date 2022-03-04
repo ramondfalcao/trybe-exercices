@@ -90,6 +90,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 11.3 - <strong>Projeto - Tryunfo</strong>
 
 ##### Bloco 12: Ciclo de vida de componentes
-- [x] 12.1 - Introdução - Front-end
-- [x] 12.2 - Introdução - React
-- [] 12.3 - <strong>Projeto - Tryunfo</strong>
+- [x] 12.1 - Ciclo de vida de componentes   
+- [x] 12.2 - React Router
+- [] 12.3 - <strong>Projeto - TrybeTunes</strong>
