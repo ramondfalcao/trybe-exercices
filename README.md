@@ -87,4 +87,9 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [x] 11.1 - Introdução - Front-end
 - [x] 11.2 - Introdução - React
-- [] 11.3 - <strong>Projeto - Tryunfo</strong>
+- [x] 11.3 - <strong>Projeto - Tryunfo</strong>
+
+##### Bloco 12: Ciclo de vida de componentes
+- [x] 12.1 - Introdução - Front-end
+- [x] 12.2 - Introdução - React
+- [] 12.3 - <strong>Projeto - Tryunfo</strong>
