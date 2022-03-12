@@ -92,4 +92,8 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Bloco 12: Ciclo de vida de componentes
 - [x] 12.1 - Ciclo de vida de componentes   
 - [x] 12.2 - React Router
-- [] 12.3 - <strong>Projeto - TrybeTunes</strong>
+- [x] 12.3 - <strong>Projeto - TrybeTunes</strong>
+
+##### Bloco 12: Metodologias Ágeis
+- [x] 13.1 - Metodologias Ágeis 
+- [x] 13.2 - <strong>Projeto - Frontend Online Store</strong>
