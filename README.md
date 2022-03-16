@@ -94,6 +94,12 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 12.2 - React Router
 - [x] 12.3 - <strong>Projeto - TrybeTunes</strong>
 
-##### Bloco 12: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis
 - [x] 13.1 - Metodologias Ágeis 
 - [x] 13.2 - <strong>Projeto - Frontend Online Store</strong>
+
+##### Bloco 14: Testes automatizados com React Testing Library
+- [x] 14.1 - RTL - Primeiros passos
+- [] 14.2 - RTL - Mocks e Inputs 
+- [] 14.3 - RTL - Testando React Router
+- [] 14.4 - <strong>Projeto - Frontend Online Store</strong>
