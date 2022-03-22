@@ -101,5 +101,5 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Bloco 14: Testes automatizados com React Testing Library
 - [x] 14.1 - RTL - Primeiros passos
 - [x] 14.2 - RTL - Mocks e Inputs 
-- [] 14.3 - RTL - Testando React Router
+- [x] 14.3 - RTL - Testando React Router
 - [] 14.4 - <strong>Projeto - Frontend Online Store</strong>
