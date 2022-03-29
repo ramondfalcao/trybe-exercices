@@ -108,6 +108,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 14.1 - Introdução ao Redux - O estado global da aplicação
 - [x] 14.2 - Usando o Redux no React
 - [x] 14.3 - Usando o Redux no React - Prática
-- [] 14.4 - Usando o Redux no React - Actions Assíncronas
+- [x] 14.4 - Usando o Redux no React - Actions Assíncronas
 - [] 14.5 - Testes em React-Redux
 - [] 14.6 -  <strong>Projeto - Trybe Wallet</strong>
