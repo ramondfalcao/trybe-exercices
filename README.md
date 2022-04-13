@@ -105,9 +105,18 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 14.4 - <strong>Projeto - Frontend Online Store</strong>
 
 ##### Bloco 15: Gerenciamento de estado com Redux
-- [x] 14.1 - Introdução ao Redux - O estado global da aplicação
-- [x] 14.2 - Usando o Redux no React
-- [x] 14.3 - Usando o Redux no React - Prática
-- [x] 14.4 - Usando o Redux no React - Actions Assíncronas
-- [] 14.5 - Testes em React-Redux
-- [] 14.6 -  <strong>Projeto - Trybe Wallet</strong>
+- [x] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [x] 15.2 - Usando o Redux no React
+- [x] 15.3 - Usando o Redux no React - Prática
+- [x] 15.4 - Usando o Redux no React - Actions Assíncronas
+- [] 15.5 - Testes em React-Redux
+- [] 15.6 -  <strong>Projeto - Trybe Wallet</strong>
+
+##### Bloco 16: Projeto Jogo Trivia
+- [x] 16.1 - Projeto Trivia
+
+##### Bloco 17: Context API e React Hooks
+- [x] 17.1 - Context API do React
+- [x] 17.2 - React Hooks - useState e useContext
+- [] 17.3 - React Hooks - useEffect e Hooks customizados
+- [] 17.4 - Projeto - StarWars Datatable com Context API e Hooks 
