@@ -124,3 +124,29 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Bloco 18: App de Receitas
 - [x] 18.1 - Projeto App de Receitas
 
+
+## Desenvolvimento Back-end :heavy_check_mark:
+
+
+##### Bloco 19: Docker: Utilizando Containers
+- [] 19.1 - Introdução - Back-end
+- [] 19.1 - Utilizando Containers - Docker
+- [] 19.2 - Manipulação e Criação de Imagens no Docker
+- [] 19.3 - Orquestrando Containers com Docker Compose
+- [] 19.4 - Projeto - Docker Todo-List
+
+##### Bloco 20: Introdução à SQL
+- [] 20.1 - Introdução - Bancos de dados relacionais
+- [] 20.1 - Banco de dados SQL
+- [] 20.2 - Encontrando dados em um banco de dados
+- [] 20.3 - Filtrando dados de forma específica
+- [] 20.4 - Manipulando Tabelas
+- [] 20.5 - Projeto - All For One
+
+
+##### Bloco 21: Funções SQL, JOINs e Normalização
+
+
+##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+
+
