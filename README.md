@@ -133,7 +133,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 19.1 - Utilizando Containers - Docker
 - [x] 19.2 - Manipulação e Criação de Imagens no Docker
 - [x] 19.3 - Orquestrando Containers com Docker Compose
-- [] 19.4 - Projeto - Docker Todo-List
+- [x] 19.4 - Projeto - Docker Todo-List
 
 ##### Bloco 20: Introdução à SQL
 - [] 20.1 - Introdução - Bancos de dados relacionais
