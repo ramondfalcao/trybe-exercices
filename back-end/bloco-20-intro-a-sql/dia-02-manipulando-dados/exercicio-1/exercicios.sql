@@ -41,3 +41,19 @@ SELECT name, hours FROM Projects ORDER BY hours DESC LIMIT 3;
 -- 11- Escreva uma query para exibir o código de todos os projetos da tabela AssignedTo sem que haja repetições.
 
 SELECT DISTINCT Project FROM AssignedTo;
+
+-- 12- Escreva uma query para exibir o nome do projeto com maior quantidade de horas.
+
+SELECT name, hours FROM Projects ORDER BY hours DESC LIMIT 3;
+
+-- 13- Escreva uma query para exibir o nome do segundo projeto com menor quantidade de horas.
+
+SELECT name, hours FROM Projects ORDER BY hours DESC LIMIT 1 OFFSET 1;
+
+-- 14- Escreva uma query para exibir todas as informações dos cinco projetos com a menor quantidade de horas.
+
+SELECT * FROM Projects ORDER BY hours ASC LIMIT 5;
+
+-- 15- Escreva uma query que exiba a string "Existem Number cientistas na tabela Scientists.", em que Number se refira a quantidade de cientistas.
+
+SELECT CONCAT('Existem ',COUNT(name),' cientistas na tabela Scientists.') FROM Projects;
