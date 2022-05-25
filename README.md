@@ -141,7 +141,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 20.2 - Encontrando dados em um banco de dados
 - [x] 20.3 - Filtrando dados de forma específica
 - [x] 20.4 - Manipulando Tabelas
-- [] 20.5 - Projeto - All For One
+- [x] 20.5 - Projeto - All For One
 
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
