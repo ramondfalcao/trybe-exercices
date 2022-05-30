@@ -119,11 +119,10 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 17.1 - Context API do React
 - [x] 17.2 - React Hooks - useState e useContext
 - [x] 17.3 - React Hooks - useEffect e Hooks customizados
-- [x] 17.4 - Projeto - StarWars Datatable com Context API e Hooks 
+- [x] 17.4 - <strong>Projeto - StarWars Datatable com Context API e Hooks</strong> 
 
 ##### Bloco 18: App de Receitas
-- [x] 18.1 - Projeto App de Receitas
-
+- [x] 18.1 -  <strong>Projeto App de Receitas</strong> 
 
 ## Desenvolvimento Back-end :heavy_check_mark:
 
@@ -133,7 +132,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 19.1 - Utilizando Containers - Docker
 - [x] 19.2 - Manipulação e Criação de Imagens no Docker
 - [x] 19.3 - Orquestrando Containers com Docker Compose
-- [x] 19.4 - Projeto - Docker Todo-List
+- [x] 19.4 - <strong>Projeto - Docker Todo-List</strong> 
 
 ##### Bloco 20: Introdução à SQL
 - [x] 20.1 - Introdução - Bancos de dados relacionais
@@ -141,10 +140,13 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 20.2 - Encontrando dados em um banco de dados
 - [x] 20.3 - Filtrando dados de forma específica
 - [x] 20.4 - Manipulando Tabelas
-- [x] 20.5 - Projeto - All For One
-
+- [x] 20.5 - <strong>Projeto - All For One</strong> 
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
+- [x] 21.1 - Funções mais usadas no SQL
+- [] 21.2 - Descomplicando JOINs
+- [] 21.3 - Transformando ideias em um modelo de banco de dados
+- [] 21.4 - <strong>Projeto - One For All</strong> 
 
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
