@@ -146,7 +146,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 21.1 - Funções mais usadas no SQL
 - [x] 21.2 - Descomplicando JOINs
 - [x] 21.3 - Transformando ideias em um modelo de banco de dados
-- [] 21.4 - <strong>Projeto - One For All</strong> 
+- [x] 21.4 - <strong>Projeto - One For All</strong> 
 
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
