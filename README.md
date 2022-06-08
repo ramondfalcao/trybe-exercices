@@ -151,7 +151,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 - [x] 22.1 - Intro Node.js
 - [x] 22.2 - Node.js - Fluxo Assíncrono
-- [] 22.3 - Mocha, Chai e Sinon - Testes de Back-end com Node.js
+- [x] 22.3 - Mocha, Chai e Sinon - Testes de Back-end com Node.js
 - [] 22.4 - Express - HTTP com Node.js
 - [] 22.5 - Express - Middlewares 
 - [] 22.6 - <strong>Projeto - Talker Manager</strong> 
