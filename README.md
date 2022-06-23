@@ -109,8 +109,8 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 15.2 - Usando o Redux no React
 - [x] 15.3 - Usando o Redux no React - Prática
 - [x] 15.4 - Usando o Redux no React - Actions Assíncronas
-- [] 15.5 - Testes em React-Redux
-- [] 15.6 -  <strong>Projeto - Trybe Wallet</strong>
+- [x] 15.5 - Testes em React-Redux
+- [x] 15.6 -  <strong>Projeto - Trybe Wallet</strong>
 
 ##### Bloco 16: Projeto Jogo Trivia
 - [x] 16.1 - Projeto Trivia
