@@ -27,7 +27,23 @@ const findAddressByCep = async (searchedCep) => {
 
   // Por fim, retornamos o CEP correto
   return cep;
-}}
+  
+  }
+   // Caso o CEP já exista, retornamos um erro dizendo que ele já existe
+     if (existingCep) {
+      return {
+        error: {
+          code: 'alreadyExists',
+          message: 'CEP já existente',
+        },
+      };
+    }
+
+    // Caso o CEP ainda não exista, chamamos o Model para criá-lo no banco, e devolvemos esse resultado
+    return Cep.create({ cep, logradouro, bairro, localidade, uf });
+  };
+
+   
 
 module.exports = {
   findAddressByCep,

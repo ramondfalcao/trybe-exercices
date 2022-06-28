@@ -9,8 +9,6 @@ app.get('/ping', (req, res) => {
   res.status(200).json({ message: 'pong!' });
 });
 
-app.get('/cep/:cep')
-
 app.get('/cep/:cep', Cep.findAddressByCep);
 
 app.use(errorMiddleware);
