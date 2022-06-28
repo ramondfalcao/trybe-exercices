@@ -1,5 +1,7 @@
 require('dotenv').config();
 const express = require('express');
+const Cep = require('./controllers/CepController');
+const errorMiddleware = require('./middlewares/error');
 
 const app = express();
 
@@ -8,6 +10,10 @@ app.get('/ping', (req, res) => {
 });
 
 app.get('/cep/:cep')
+
+app.get('/cep/:cep', Cep.findAddressByCep);
+
+app.use(errorMiddleware);
 
 const PORT = process.env.PORT || 3000;
 
