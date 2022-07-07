@@ -159,9 +159,16 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 - [x] 23.1 - Arquitetura de Software - Camada De Model
 - [x] 23.2 - Arquitetura de Software - Camada De Controller e Service
-- [] 23.3 - Arquitetura Web - Rest e Restful
-- [] 23.4 - Arquitetura de Software - Testando as Camadas
-- [] 23.5 - <strong>Projeto - Store Manager</strong> 
+- [x] 23.3 - Arquitetura Web - Rest e Restful
+- [x] 23.4 - Arquitetura de Software - Testando as Camadas
+- [x] 23.5 - <strong>Projeto - Store Manager</strong> 
+
+##### Bloco 24: Node.js: ORM e Autenticação
+- [x] 24.1 - Introduçaõ - Node.js: ORM e Autenticação
+- [] 24.2 - ORM - Associations
+- [] 24.3 - JWT - (JSON Web Token)
+- [] 24.4 - Testando APIs com Testes de Integração
+- [] 24.5 - <strong>Projeto - API de Blogs</strong> 
 
 
 
