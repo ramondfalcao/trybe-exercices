@@ -165,10 +165,30 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Bloco 24: Node.js: ORM e Autenticação
 - [x] 24.1 - Introduçaõ - Node.js: ORM e Autenticação
-- [] 24.2 - ORM - Associations
-- [] 24.3 - JWT - (JSON Web Token)
-- [] 24.4 - Testando APIs com Testes de Integração
-- [] 24.5 - <strong>Projeto - API de Blogs</strong> 
+- [x] 24.2 - ORM - Associations
+- [x] 24.3 - JWT - (JSON Web Token)
+- [x] 24.4 - Testando APIs com Testes de Integração
+- [x] 24.5 - <strong>Projeto - API de Blogs</strong>
+
+##### Bloco 25: Deployment
+- [x] 25.1 - Infraestrutura - Deploy com Heroku
+- [x] 25.2 - Deploy Docker & Heroku
+- [x] 25.3 - <strong>Projeto - Stranger Things</strong>
+
+##### Bloco 26: TypeScript 
+- [x] 26.1 - Introdução ao TypeScript
+- [x] 26.2 - Tipagem Estática e Generics
+- [x] 26.3 - Express com TypeScript
+- [x] 26.5 - <strong>Projeto - Trybe Smith</strong>
+
+##### Bloco 27: Programação Orientada a Objetos(POO) e SOLID
+- [x] 27.1 - Introdução à Orientação a Objetos
+- [] 27.2 - Herança e Interfaces
+- [] 27.3 - Polimorfismo
+- [] 27.4 - SOLID - Introdução e Princípios S, O e D
+- [] 27.5 - SOLID - Princípios L e I
+- [] 27.6 - <strong>Projeto - Trybers and Dragons</strong>
+
 
 
 
