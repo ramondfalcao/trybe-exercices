@@ -183,7 +183,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Bloco 27: Programação Orientada a Objetos(POO) e SOLID
 - [x] 27.1 - Introdução à Orientação a Objetos
-- [] 27.2 - Herança e Interfaces
+- [x] 27.2 - Herança e Interfaces
 - [] 27.3 - Polimorfismo
 - [] 27.4 - SOLID - Introdução e Princípios S, O e D
 - [] 27.5 - SOLID - Princípios L e I
